@@ -3,7 +3,7 @@
 Join me on my journey into the exciting world of data analytics! In this repository, you'll find some of my projects that showcase my skills and passion in this field. Here's a bit about me:
 
 - 😄 I did my undergrad in Industrial Engineer at Universidad de Lima in Peru
-- 💻 I’m studying Master of Management in Analytics at McGill University
+- 💻 I’m studying the Master of Management in Analytics at McGill University
 - 🌱 I'm transitioning into the data field to gain the necessary skills for transforming data into solutions
 - ✏️ I earned my Black Belt Lean Six Sigma Certification after completing a project applying statistical analysis 
 - ⚡ I enjoy playing videogames, cooking different dishes, swimming, and exploring the wonders of astronomy! 🌠
