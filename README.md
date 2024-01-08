@@ -9,7 +9,7 @@ Join me on my journey into the exciting world of data analytics! In this reposit
 - ⚡ I enjoy playing videogames, cooking different dishes, swimming, and exploring the wonders of astronomy! 🌠
 - 📫 Reach me at: rodrigo.castro@mail.mcgill.ca or rodrigo20acc@gmail.com
 
-Feel free to connect with me and leave any thoughts! 💪
+Feel free to connect with me through [GitHub](https://github.com/rodrigo20acc) or [LinkedIn](https://ca.linkedin.com/in/rodrigoacc) and leave any thoughts! 💪
 
 <!--
 **rodrigo20acc/rodrigo20acc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
